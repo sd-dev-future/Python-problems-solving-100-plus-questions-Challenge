@@ -1,4 +1,4 @@
-# Python-problems-solving-
+# Python-problems-solving- 100+ questions 
 This repository contains Python problems I solve to improve my logical thinking and Python fundamentals.
 
 ## Practice problems source
